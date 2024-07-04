@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""annotated sim list function"""
 from typing import List
 
 

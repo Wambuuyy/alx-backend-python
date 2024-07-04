@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""corrected function"""
 from typing import List, Tuple, Iterable, Sequence
 
 

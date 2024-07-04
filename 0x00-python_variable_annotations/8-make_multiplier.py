@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""annotated multiplier"""
 from typing import Callable
 
 
