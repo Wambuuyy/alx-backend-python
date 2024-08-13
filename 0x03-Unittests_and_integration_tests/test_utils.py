@@ -2,10 +2,11 @@
 import unittest
 from utils import access_nested_map
 from typing import Dict, Tuple, Union
-frpm parameterized import parameterized
+from parameterized import parameterized
 
 
-class TestAcessNestedMap(unittest.Testcase):
+
+class TestAcessNestedMap(unittest.TestCase):
     """parameterized unit test to test
     different cases for access_nested_map"""
 
